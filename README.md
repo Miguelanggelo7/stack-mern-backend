@@ -3,8 +3,8 @@ This is a notes application made using the mern stack (MongoDB, Express, React, 
 
 # Execute
 To execute the backend it's necessary to run nodejs with:
--npm run dev
+- npm run dev
 or 
--node ./src/index.js
+- node ./src/index.js
 
 And MongoDB must already be running
